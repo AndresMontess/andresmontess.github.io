@@ -48,12 +48,12 @@
        offset="0"
        stop-color="#737dfc"
        id="stop1"
-       style="stop-color:#0c6707;stop-opacity:1;" />
+       style="stop-color:#1a6405;stop-opacity:1;" />
     <stop
        offset="1"
        stop-color="#5864ff"
        id="stop2"
-       style="stop-color:#00b427;stop-opacity:1;" />
+       style="stop-color:#1da100;stop-opacity:1;" />
   </linearGradient>
   <g
      clip-path="url(#a)"
@@ -64,7 +64,7 @@
        fill="#5864ff"
        transform="translate(190 5091)"
        id="path2"
-       style="fill:#3d9824;fill-opacity:1" />
+       style="fill:#33821d;fill-opacity:1" />
     <path
        d="m-113.148 1297.79c-41.4-185.711 96.459-247.977 228.027-344.267 255.548-186.624 370.256-9.856 783.643-172.8s264.57 517.071 264.57 517.071z"
        fill="#fff"
