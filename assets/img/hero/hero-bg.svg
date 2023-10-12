@@ -23,7 +23,7 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:zoom="0.7909474"
-     inkscape:cx="891.33613"
+     inkscape:cx="891.33614"
      inkscape:cy="397.62442"
      inkscape:window-width="1920"
      inkscape:window-height="1057"
@@ -41,19 +41,19 @@
        offset="0"
        stop-color="#5864ff"
        id="stop1"
-       style="stop-color:#84ff58;stop-opacity:1;" />
+       style="stop-color:#0c3600;stop-opacity:1;" />
     <stop
        offset="1"
        stop-color="#6a74ff"
        id="stop2"
-       style="stop-color:#6affd9;stop-opacity:1;" />
+       style="stop-color:#187b00;stop-opacity:1;" />
   </linearGradient>
   <path
      d="m1650.595 755.5c56.3 272.618-131.189 364.024-310.13 505.374-347.561 273.959-503.57 14.469-1065.8 253.673s-359.832-759.047-359.832-759.047z"
      fill="#5864ff"
      transform="translate(120.633 -755.5)"
      id="path2"
-     style="fill:#43ff73;fill-opacity:1" />
+     style="fill:#028800;fill-opacity:1" />
   <path
      d="m-113.148 755.5c-41.4 185.71 96.459 247.977 228.027 344.266 255.548 186.624 370.256 9.856 783.643 172.8s264.57-517.07 264.57-517.07z"
      fill="url(#a)"
